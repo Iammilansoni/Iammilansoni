@@ -8,6 +8,7 @@
   <a href="https://milansoni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-milansoni.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sonimilan"><img src="https://img.shields.io/badge/LinkedIn-sonimilan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@milansoni96946"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://instagram.com/Iammilansoni"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:milansoni96946@gmail.com"><img src="https://img.shields.io/badge/Email-milansoni96946-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -251,6 +252,8 @@ More on [Medium](https://medium.com/@milansoni96946) and [my portfolio blog](htt
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonimilan)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Iammilansoni)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@milansoni96946)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milansoni96946@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://milansoni.vercel.app)
 
