@@ -69,8 +69,8 @@ PostgreSQL + pgvector, Redis HNSW indexes, Docker, $0/month free-tier deployment
 <td width="20%"><b>Jul 2026</b></td>
 <td width="80%">
 
-**Open Source Contributor · OmniRoute** — *Remote*
-Synced 42 international locales with upstream architectural changes · expanded tracked routing strategies (13 → 17) and service modules (36 → 134) · zero-regression deployment via automated `docs-sync-strict` validation, merged into v3.8.44
+**Open Source Contributor · [OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — *Remote*
+Contributed to the largest open-source universal AI gateway (10.8k★, 230+ LLM providers). 3 PRs merged across v3.8.44–v3.8.45: docs/i18n across 42 locales, Claude 5 Sonnet provider registry, and an accessible React dashboard filter. Diagnosed a system-message ordering bug affecting strict LLM providers — proposed a declarative Zod schema configuration that the core maintainer validated and adopted into the shipped fix. See [Technical Breakdown](#-omniroute--technical-breakdown) below.
 
 </td>
 </tr>
@@ -166,6 +166,45 @@ Adaptive learning platform with personalized recommendations, dropout prediction
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🔧 OmniRoute — Technical Breakdown
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Engineering (React / Next.js)
+Designed and shipped an accessible **"Configured Only"** filter for the live provider-rankings dashboard. Fetches live connection state from `/api/providers`, filters rankings table and podium view in real time, adds a "Status" column with empty-state handling. Implemented as `role="switch"` with `aria-checked` for screen reader accessibility. Iterated through code review to add a `useEffect` cleanup flag preventing memory leaks on unmount, plus a full Vitest test suite. **168 additions across 4 files, 9/9 tests passing.**
+
+</td>
+<td width="50%" valign="top">
+
+### API & Provider Integrations (Claude 5 Sonnet)
+Integrated the newly released **Claude 5 Sonnet** into the `claude_web` provider registry at `open-sse/config/providers/registry/claude/web/index.ts` with a registry regression test per the repo's coverage requirement. Learned to validate against the full test suite before submitting — an earlier attempt was superseded by the corrected version. **Shipped with a "Verified" signed commit into v3.8.45.**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Architecture & CI/CD Pipelines
+Audited 9 core docs containing untranslated Portuguese/Chinese prose mixed into English-only documents, plus ~20 localized READMEs carrying duplicated OAuth blocks. Normalized all flagged docs, consolidated a trilingual Fly.io deployment guide, and corrected stale architecture facts (routing strategies **13 → 17**, service modules **36 → 134**). Verified against `docs-sync-strict` CI gate across all **42 locales** — zero regressions.
+
+</td>
+<td width="50%" valign="top">
+
+### Core Backend Logic & Schema Design
+Diagnosed why strict LLM providers (e.g., Xiaomi MiMo) reject requests with HTTP 400 when a memory-injected system message lands at a non-zero array index. Proposed a **declarative Zod schema** approach: a `systemMessageMustBeFirst` flag in the provider schema plus branching logic in `injectMemory()` — the maintainer validated this over a hardcoded alternative and adopted the naming into the broader shipped fix (PR #6225). **25/25 Vitest + 30/30 Node test-runner coverage.**
+
+</td>
+</tr>
+</table>
+
+### 💡 Key Takeaways
+
+This contribution bridged the gap between academic learning and high-scale production engineering in three ways. First, working against a live 10.8k★ codebase with 21,000+ tests forced a discipline around CI/CD validation that no coursework replicates — every change had to pass `docs-sync-strict` across 42 locales or it didn't ship. Second, the schema design feedback loop with the maintainer taught me how production systems evolve through collaboration, not just code — the declarative approach won because it was extensible, not because it was cleverer. Third, iterating through code review (memory-leak safeguards, test coverage, lint compliance) built the muscle for shipping code that other engineers actually depend on.
 
 <br/>
 
