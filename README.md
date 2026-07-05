@@ -312,7 +312,7 @@ More on [Medium](https://medium.com/@milansoni96946) and [my portfolio blog](htt
 
 **💡 Open for full-time roles, freelance projects, and AI consulting.**
 
-![GitHub Contributions](https://ghchart.rshah.org/iammilansoni)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:0A66C2&height=100&section=footer" width="100%"/>
 
