@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:12100E&height=200&section=header&text=Milan%20Soni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+```text
+  __  __ ___ _        _    _   _       ____   ___  _   _ ___       ____   ___  ____ _____ _____ ___  _     ___ ___  
+ |  \/  |_ _| |      / \  | \ | |     / ___| / _ \| \ | |_ _|     |  _ \ / _ \|  _ \_   _|  ___/ _ \| |   |_ _/ _ \ 
+ | |\/| || || |     / _ \ |  \| |     \___ \| | | |  \| || |      | |_) | | | | |_) || | | |_ | | | | |    | | | | |
+ | |  | || || |___ / ___ \| |\  |      ___) | |_| | |\  || |      |  __/| |_| |  _ < | | |  _|| |_| | |___ | | |_| |
+ |_|  |_|___|_____/_/   \_\_| \_|     |____/ \___/|_| \_|___|     |_|    \___/|_| \_\|_| |_|   \___/|_____|___\___/ 
+```
+
+**AI Engineer · Full Stack Developer · RAG Specialist**
 
 <a href="https://www.linkedin.com/in/sonimilan"><img src="https://readme-typing-svg.demolab.com/?lines=SIH+2023+National+Winner+%F0%9F%8F%86;RAG+Pipelines+%26+Multi-Agent+AI+Systems;Full+Stack+Engineer+%7C+React+%2B+FastAPI;Scopus-Indexed+Researcher;Open+to+Full-Time+Roles+%26+Freelance!&font=Fira+Code&center=true&width=650&height=45&color=0A66C2&vCenter=true&size=22" alt="Typing SVG" /></a>
 
