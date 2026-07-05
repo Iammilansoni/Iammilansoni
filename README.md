@@ -259,20 +259,34 @@ Global Institute of Technology, Jaipur | Oct 2022 – May 2026 | CGPA: **8.10/10
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Milan's GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammilansoni&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=iammilansoni&theme=radical&no-frame=true&margin-w=4&row=1&column=7" alt="Trophy"/>
+<a href="https://github.com/iammilansoni">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Milan's GitHub Stats"/>
+</a>
+<a href="https://github.com/iammilansoni">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
-### 📈 Activity Graph
+<div align="center">
+
+<a href="https://github.com/iammilansoni">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammilansoni&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<a href="https://github.com/iammilansoni">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammilansoni&theme=radical&no-frame=true&margin-w=4&row=1&column=7" alt="Trophy"/>
+</a>
+
+</div>
+
+<div align="center">
 
 <a href="https://github.com/iammilansoni">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&theme=react-dark&hide_border=true" alt="Milan's github activity graph" width="100%"/>
 </a>
+
+</div>
 
 <br/>
 
@@ -298,7 +312,7 @@ More on [Medium](https://medium.com/@milansoni96946) and [my portfolio blog](htt
 
 **💡 Open for full-time roles, freelance projects, and AI consulting.**
 
-<img src="https://raw.githubusercontent.com/iammilansoni/iammilansoni/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+![GitHub Contributions](https://ghchart.rshah.org/iammilansoni)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:0A66C2&height=100&section=footer" width="100%"/>
 
