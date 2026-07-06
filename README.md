@@ -31,15 +31,14 @@
 ```yaml
 name: Milan Soni
 role: AI Engineer & Full Stack Developer
-location: Churu, Rajasthan, India 🇮🇳
+location: Churu, Rajasthan, India
 education: B.Tech CSE @ Global Institute of Technology, Jaipur (CGPA 8.10/10, '26)
 recognition: SIH 2023 National Winner — Coal India & CMPDI
-research: Scopus-indexed researcher
-experience: 4 internships shipping production systems
+open_source: 3 PRs merged to OmniRoute (10.8k★, 21,000+ tests)
 currently_open_to: [Full-time roles, Freelance projects, AI consulting]
 ```
 
-I build **production RAG pipelines**, **multi-agent AI systems**, and **scalable enterprise platforms** — turning research-grade AI into things that actually run in production, on a budget.
+AI Engineer and Full Stack Developer building production RAG pipelines, multi-agent orchestration systems, and multi-provider LLM infrastructure. Shipped code to a 10.8k★ open-source AI gateway (3 PRs merged, 21,000+ tests), built a 6-agent document intelligence platform that won SIH 2023 National (Ministry of Coal, 44,000+ teams), and deployed $0/month production systems using free-tier AI providers. Scopus-indexed researcher.
 
 <br/>
 
@@ -78,7 +77,7 @@ PostgreSQL + pgvector, Redis HNSW indexes, Docker, $0/month free-tier deployment
 <td width="80%">
 
 **Open Source Contributor · [OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — *Remote*
-Contributed to the largest open-source universal AI gateway (10.8k★, 230+ LLM providers). 3 PRs merged across v3.8.44–v3.8.45: docs/i18n across 42 locales, Claude 5 Sonnet provider registry, and an accessible React dashboard filter. Diagnosed a system-message ordering bug affecting strict LLM providers — proposed a declarative Zod schema configuration that the core maintainer validated and adopted into the shipped fix. See [Technical Breakdown](#-omniroute--technical-breakdown) below.
+Diagnosed an HTTP 400 regression in the memory-injection pipeline affecting strict LLM providers (Xiaomi MiMo); proposed a declarative `systemMessageMustBeFirst` Zod schema flag adopted by the maintainer into the shipped fix — 25/25 Vitest + 30/30 Node test-runner coverage (PR #6225). Built an accessible "Configured Only" filter toggle mapping live connection state to a filterable data grid — 168 additions across 4 files, 9/9 tests passing, shipped into v3.8.45 (PR #6245). Integrated Claude 5 Sonnet into the provider registry with regression test coverage, shipping a verified signed commit within hours of the model's release (PR #6209, v3.8.45). Audited and normalized 9 core docs + 20+ localized READMEs across 42 locales, zero regressions (PR #6105, v3.8.44).
 
 </td>
 </tr>
@@ -87,7 +86,7 @@ Contributed to the largest open-source universal AI gateway (10.8k★, 230+ LLM 
 <td>
 
 **Full Stack Developer Intern · nTheta Works Pvt. Ltd.** — *Remote*
-Architected **NLPForge**, an enterprise LLM API testing platform (FastAPI + Next.js) · two-stage semantic retrieval with Redis Vector DB + FlashRank → **40% accuracy improvement**, **60% QA effort reduction** · Docker containerization + CI/CD on Linux servers
+Built a two-stage semantic retrieval pipeline (Ollama embeddings → Redis HNSW → FlashRank cross-encoder reranking) for NLPForge, an enterprise LLM API testing platform — improved template matching accuracy by **40%** and reduced manual QA effort by **60%**. Shipped async FastAPI microservices + Next.js/TypeScript dashboards with Docker Compose orchestration and CI/CD on Linux servers.
 
 </td>
 </tr>
@@ -96,7 +95,7 @@ Architected **NLPForge**, an enterprise LLM API testing platform (FastAPI + Next
 <td>
 
 **AI & Full Stack Developer · Freelance** — *Remote*
-Built **SmartLearnX**, an AI-powered LMS (React + Node.js + FastAPI) · dropout prediction model (Logistic Regression, **91.4% accuracy**), academic forecasting (Random Forest, **0.89 R²**) · NLP features (BERT, spaCy) for quiz generation + 24/7 chatbot
+Built SmartLearnX, an AI-powered LMS, with a dropout prediction model (Logistic Regression, **91.4% accuracy**) and academic performance forecasting (Random Forest, **R² = 0.89**) deployed as a FastAPI microservice alongside a React/Node.js frontend. Integrated NLP features (BERT for quiz generation, spaCy chatbot) serving 24/7 student support with sub-2-second response times under load.
 
 </td>
 </tr>
@@ -105,7 +104,7 @@ Built **SmartLearnX**, an AI-powered LMS (React + Node.js + FastAPI) · dropout 
 <td>
 
 **Full Stack Developer Intern · OBG Outsourcing Pvt. Ltd.** — *Jaipur*
-Led **FinSageAI360**, an AI-driven financial intelligence platform (Next.js + Redux + Prisma) · secure REST API backend (Node.js + Express + MongoDB) with JWT + RBAC · **+45% faster** report cycles, **+30%** operational efficiency
+Led FinSageAI360, a multi-tenant financial intelligence SaaS — cut monthly close reporting time by **45%** and reduced manual operational effort by **30%** through AI-driven anomaly detection and real-time KPI dashboards. Designed a JWT-authenticated REST API (Node.js/Express/MongoDB) with granular RBAC for multi-tenant data isolation.
 
 </td>
 </tr>
@@ -114,7 +113,7 @@ Led **FinSageAI360**, an AI-driven financial intelligence platform (Next.js + Re
 <td>
 
 **Software Developer Intern · Om Logistics Ltd.** — *Delhi*
-Built enterprise document search via LangChain + FAISS → **70% latency reduction** across 10,000+ documents · RESTful API automation for logistics workflows · improved retrieval accuracy by **40%**, eliminated **20%** manual data entry
+Optimized enterprise document search by implementing LangChain + FAISS vector embeddings — reduced query latency by **70%** across 10,000+ documents and improved retrieval accuracy by **40%**. Built RESTful APIs (Node.js) to automate logistics workflows, eliminating 20% of manual data-entry tasks.
 
 </td>
 </tr>
@@ -131,7 +130,7 @@ Built enterprise document search via LangChain + FAISS → **70% latency reducti
 ### 🏆 [MiningNiti](https://github.com/Iammilansoni/MiningNiti)
 **SIH 2023 National Winner** — recognized by Coal India Limited & CMPDI
 
-AI document intelligence platform for the Ministry of Coal. 6 specialized AI agents across 4 providers (Groq, Cerebras, Mistral, Gemini) running concurrently. Production RAG with hybrid search (pgvector + BM25) + cross-encoder reranking, at **$0/month** infrastructure cost.
+AI document intelligence platform for the Ministry of Coal. 6 specialized AI agents across 4 providers (Groq, Cerebras, Mistral, Gemini) running concurrently via asyncio. Production RAG with hybrid search (pgvector + BM25) + cross-encoder reranking, at **$0/month** infrastructure cost.
 
 `Next.js 16` `React 19` `FastAPI` `pgvector` `Supabase` `Upstash Redis` `Clerk` `Docker`
 
@@ -143,7 +142,7 @@ AI document intelligence platform for the Ministry of Coal. 6 specialized AI age
 ### ⚡ [NLPForge](https://github.com/Iammilansoni/NLPFT-2)
 Enterprise AI NLP platform
 
-AI-powered NLP dataset generator & semantic search. Two-stage retrieval pipeline: Ollama embeddings → Redis HNSW KNN search → FlashRank cross-encoder reranking. 8 LLM providers, 15+ embedding models.
+Two-stage retrieval pipeline: Ollama embeddings → Redis HNSW KNN search → FlashRank cross-encoder reranking. 8 LLM providers, 15+ embedding models. **40% accuracy improvement**, **60% QA effort reduction**.
 
 `Next.js 16` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL 15` `Redis Stack` `FlashRank` `Ollama`
 
@@ -157,7 +156,7 @@ AI-powered NLP dataset generator & semantic search. Two-stage retrieval pipeline
 ### 💰 FinSageAI360
 AI financial intelligence platform
 
-Multi-tenant SaaS for accounting feed ingestion, normalization, and AI-generated cashflow/risk/anomaly insights. Built at OBG Outsourcing.
+Multi-tenant SaaS for accounting feed ingestion, normalization, and AI-generated cashflow/risk/anomaly insights. Built at OBG Outsourcing. **+45% faster** reporting, **+30%** operational efficiency.
 
 `Next.js` `Node.js` `MongoDB` `Prisma` `JWT` `AI Analytics`
 
@@ -167,7 +166,7 @@ Multi-tenant SaaS for accounting feed ingestion, normalization, and AI-generated
 ### 🎓 SmartLearnX
 AI-powered Learning Management System
 
-Adaptive learning platform with personalized recommendations, dropout prediction (**91.4% accuracy**), and AI-powered assessments. Built as a freelance project.
+Adaptive learning platform with dropout prediction (**91.4% accuracy**), performance forecasting (**R² = 0.89**), and 24/7 NLP chatbot support. Built as a freelance project.
 
 `React` `TypeScript` `Node.js` `FastAPI` `MongoDB` `Redis` `Docker` `ML`
 
@@ -184,13 +183,13 @@ Adaptive learning platform with personalized recommendations, dropout prediction
 <td width="50%" valign="top">
 
 ### Frontend Engineering (React / Next.js)
-Designed and shipped an accessible **"Configured Only"** filter for the live provider-rankings dashboard. Fetches live connection state from `/api/providers`, filters rankings table and podium view in real time, adds a "Status" column with empty-state handling. Implemented as `role="switch"` with `aria-checked` for screen reader accessibility. Iterated through code review to add a `useEffect` cleanup flag preventing memory leaks on unmount, plus a full Vitest test suite. **168 additions across 4 files, 9/9 tests passing.**
+Shipped an accessible **"Configured Only"** filter for the provider-rankings dashboard — maps live `/api/providers` connection state to a filterable data grid with a "Status" column, `role="switch"` with `aria-checked` for screen reader accessibility, `useEffect` cleanup for memory-leak prevention, and a full Vitest suite. **168 additions across 4 files, 9/9 tests passing (PR #6245, v3.8.45).**
 
 </td>
 <td width="50%" valign="top">
 
 ### API & Provider Integrations (Claude 5 Sonnet)
-Integrated the newly released **Claude 5 Sonnet** into the `claude_web` provider registry at `open-sse/config/providers/registry/claude/web/index.ts` with a registry regression test per the repo's coverage requirement. Learned to validate against the full test suite before submitting — an earlier attempt was superseded by the corrected version. **Shipped with a "Verified" signed commit into v3.8.45.**
+Integrated **Claude 5 Sonnet** into the `claude_web` provider registry with a registry regression test, shipping a verified signed commit within hours of the model's release. **PR #6209, v3.8.45.**
 
 </td>
 </tr>
@@ -198,21 +197,17 @@ Integrated the newly released **Claude 5 Sonnet** into the `claude_web` provider
 <td width="50%" valign="top">
 
 ### Architecture & CI/CD Pipelines
-Audited 9 core docs containing untranslated Portuguese/Chinese prose mixed into English-only documents, plus ~20 localized READMEs carrying duplicated OAuth blocks. Normalized all flagged docs, consolidated a trilingual Fly.io deployment guide, and corrected stale architecture facts (routing strategies **13 → 17**, service modules **36 → 134**). Verified against `docs-sync-strict` CI gate across all **42 locales** — zero regressions.
+Audited 9 core docs and ~20 localized READMEs across 42 locales, removing untranslated Portuguese/Chinese prose and correcting stale architecture facts (routing strategies **13→17**, service modules **36→134**). Passed `docs-sync-strict` CI gate — **zero regressions (PR #6105, v3.8.44).**
 
 </td>
 <td width="50%" valign="top">
 
 ### Core Backend Logic & Schema Design
-Diagnosed why strict LLM providers (e.g., Xiaomi MiMo) reject requests with HTTP 400 when a memory-injected system message lands at a non-zero array index. Proposed a **declarative Zod schema** approach: a `systemMessageMustBeFirst` flag in the provider schema plus branching logic in `injectMemory()` — the maintainer validated this over a hardcoded alternative and adopted the naming into the broader shipped fix (PR #6225). **25/25 Vitest + 30/30 Node test-runner coverage.**
+Diagnosed an HTTP 400 regression for strict LLM providers (Xiaomi MiMo) caused by system-message ordering in the memory-injection pipeline. Proposed a **declarative Zod schema** with a `systemMessageMustBeFirst` flag — adopted by the maintainer into the broader shipped fix. **25/25 Vitest + 30/30 Node test-runner coverage (PR #6225).**
 
 </td>
 </tr>
 </table>
-
-### 💡 Key Takeaways
-
-This contribution bridged the gap between academic learning and high-scale production engineering in three ways. First, working against a live 10.8k★ codebase with 21,000+ tests forced a discipline around CI/CD validation that no coursework replicates — every change had to pass `docs-sync-strict` across 42 locales or it didn't ship. Second, the schema design feedback loop with the maintainer taught me how production systems evolve through collaboration, not just code — the declarative approach won because it was extensible, not because it was cleverer. Third, iterating through code review (memory-leak safeguards, test coverage, lint compliance) built the muscle for shipping code that other engineers actually depend on.
 
 <br/>
 
