@@ -1,46 +1,55 @@
 <div align="center">
 
-```text
-  __  __ ___ _        _    _   _       ____   ___  _   _ ___       ____   ___  ____ _____ _____ ___  _     ___ ___  
- |  \/  |_ _| |      / \  | \ | |     / ___| / _ \| \ | |_ _|     |  _ \ / _ \|  _ \_   _|  ___/ _ \| |   |_ _/ _ \ 
- | |\/| || || |     / _ \ |  \| |     \___ \| | | |  \| || |      | |_) | | | | |_) || | | |_ | | | | |    | | | | |
- | |  | || || |___ / ___ \| |\  |      ___) | |_| | |\  || |      |  __/| |_| |  _ < | | |  _|| |_| | |___ | | |_| |
- |_|  |_|___|_____/_/   \_\_| \_|     |____/ \___/|_| \_|___|     |_|    \___/|_| \_\|_| |_|   \___/|_____|___\___/ 
+```
+███╗   ███╗██╗██╗      █████╗ ███╗   ██╗    ███████╗ ██████╗ ███╗   ██╗██╗
+████╗ ████║██║██║     ██╔══██╗████╗  ██║    ██╔════╝██╔═══██╗████╗  ██║██║
+██╔████╔██║██║██║     ███████║██╔██╗ ██║    ███████╗██║   ██║██╔██╗ ██║██║
+██║╚██╔╝██║██║██║     ██╔══██║██║╚██╗██║    ╚════██║██║   ██║██║╚██╗██║██║
+██║ ╚═╝ ██║██║███████╗██║  ██║██║ ╚████║    ███████║╚██████╔╝██║ ╚████║██║
+╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-**AI Engineer · Full Stack Developer · RAG Specialist**
+### AI Engineer · Backend & Full Stack Developer
 
-<a href="https://www.linkedin.com/in/sonimilan"><img src="https://readme-typing-svg.demolab.com/?lines=SIH+2023+National+Winner+%F0%9F%8F%86;RAG+Pipelines+%26+Multi-Agent+AI+Systems;Full+Stack+Engineer+%7C+React+%2B+FastAPI;Scopus-Indexed+Researcher;Open+to+Full-Time+Roles+%26+Freelance!&font=Fira+Code&center=true&width=650&height=45&color=0A66C2&vCenter=true&size=22" alt="Typing SVG" /></a>
+<a href="https://milansoni.vercel.app"><img src="https://readme-typing-svg.demolab.com/?lines=Production+RAG+%E2%80%94+hybrid+search+%2B+reranking;Multi-agent+LLM+orchestration%2C+no+framework;Retrieval+quality+gated+in+CI;SIH+2023+National+Winner+%F0%9F%8F%86;Scopus-Indexed+Researcher;Open+to+Full-Time+Roles+%26+Freelance&font=Fira+Code&center=true&width=680&height=45&color=6C63FF&vCenter=true&size=21&pause=900" alt="What I build" /></a>
 
 <p>
   <a href="https://milansoni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-milansoni.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sonimilan"><img src="https://img.shields.io/badge/LinkedIn-sonimilan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@milansoni96946"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://instagram.com/Iammilansoni"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:milansoni96946@gmail.com"><img src="https://img.shields.io/badge/Email-milansoni96946-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://medium.com/@milansoni96946"><img src="https://img.shields.io/badge/Medium-Writing-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:milansoni96946@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=iammilansoni&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iammilansoni&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Based_in-Churu,_Rajasthan-2b2b2b?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to-Full--time_%C2%B7_Freelance-22c55e?style=flat-square" alt="Availability" />
+</p>
 
 </div>
 
-<br/>
+---
 
-## 👋 About Me
+## 👋 About
 
 ```yaml
-name: Milan Soni
-role: AI Engineer & Full Stack Developer
-location: Churu, Rajasthan, India
-education: B.Tech CSE @ Global Institute of Technology, Jaipur (CGPA 8.10/10, '26)
-recognition: SIH 2023 National Winner — Coal India & CMPDI
-open_source: 3 PRs merged to OmniRoute (10.8k★, 21,000+ tests)
-currently_open_to: [Full-time roles, Freelance projects, AI consulting]
+name:       Milan Soni
+role:       AI Engineer · Backend & Full Stack Developer
+location:   Churu, Rajasthan, India
+education:  B.Tech CSE @ Global Institute of Technology, Jaipur — CGPA 8.10/10 ('26)
+recognition:
+  - SIH 2023 National Winner — Ministry of Coal, top 1% of 44,000+ teams
+  - Scopus-indexed publication — PiCET-2026 (IET Conference Proceedings)
+open_source: 6 PRs merged into OmniRoute — 53k★ AI gateway, 230+ providers, 21,000+ tests
+open_to:    [Full-time roles, Freelance projects, AI consulting]
 ```
 
-AI Engineer and Full Stack Developer building production RAG pipelines, multi-agent orchestration systems, and multi-provider LLM infrastructure. Shipped code to a 10.8k★ open-source AI gateway (3 PRs merged, 21,000+ tests), built a 6-agent document intelligence platform that won SIH 2023 National (Ministry of Coal, 44,000+ teams), and deployed $0/month production systems using free-tier AI providers. Scopus-indexed researcher.
+I build production RAG pipelines, multi-agent LLM systems, and the backends that hold them
+up — in Python and TypeScript. The through-line in my work is **measurement**: retrieval
+quality scored against a labelled golden set and enforced as a blocking CI gate, failure
+modes surfaced rather than swallowed, and limitations written down instead of rounded up.
 
-<br/>
+---
 
 ## 🧩 What I Build
 
@@ -49,77 +58,29 @@ AI Engineer and Full Stack Developer building production RAG pipelines, multi-ag
 <td width="33%" valign="top">
 
 ### 🤖 AI / LLM Engineering
-RAG pipelines with hybrid search, multi-agent orchestration (6 agents), cross-encoder reranking, evaluation harnesses
+Production RAG with hybrid search and cross-encoder reranking · multi-agent orchestration
+(5 agents, **no framework** — hand-written on `asyncio.gather()`) · quota-aware provider
+failover · retrieval + generation eval harnesses
 
 </td>
 <td width="33%" valign="top">
 
-### 🖥️ Full Stack
-React 19 + TanStack Start frontends, FastAPI async backends, Clerk auth, enterprise RBAC
+### 🖥️ Backend & Full Stack
+FastAPI · Node.js/Express · SQLAlchemy · Pydantic v2 · React 19 + Next.js 16 frontends ·
+Clerk/JWT auth with RBAC · SSE streaming · REST API design
 
 </td>
 <td width="33%" valign="top">
 
 ### 🗄️ Data & Infra
-PostgreSQL + pgvector, Redis HNSW indexes, Docker, $0/month free-tier deployments
+PostgreSQL + pgvector (HNSW) · Redis vector search · Supabase · Docker Compose ·
+GitHub Actions CI/CD · **$0/month** free-tier production deployments
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="20%"><b>Jul 2026</b></td>
-<td width="80%">
-
-**Open Source Contributor · [OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — *Remote*
-Diagnosed an HTTP 400 regression in the memory-injection pipeline affecting strict LLM providers (Xiaomi MiMo); proposed a declarative `systemMessageMustBeFirst` Zod schema flag adopted by the maintainer into the shipped fix — 25/25 Vitest + 30/30 Node test-runner coverage (PR #6225). Built an accessible "Configured Only" filter toggle mapping live connection state to a filterable data grid — 168 additions across 4 files, 9/9 tests passing, shipped into v3.8.45 (PR #6245). Integrated Claude 5 Sonnet into the provider registry with regression test coverage, shipping a verified signed commit within hours of the model's release (PR #6209, v3.8.45). Audited and normalized 9 core docs + 20+ localized READMEs across 42 locales, zero regressions (PR #6105, v3.8.44).
-
-</td>
-</tr>
-<tr>
-<td><b>Oct – Dec 2025</b></td>
-<td>
-
-**Full Stack Developer Intern · nTheta Works Pvt. Ltd.** — *Remote*
-Built a two-stage semantic retrieval pipeline (Ollama embeddings → Redis HNSW → FlashRank cross-encoder reranking) for NLPForge, an enterprise LLM API testing platform — improved template matching accuracy by **40%** and reduced manual QA effort by **60%**. Shipped async FastAPI microservices + Next.js/TypeScript dashboards with Docker Compose orchestration and CI/CD on Linux servers.
-
-</td>
-</tr>
-<tr>
-<td><b>Jul – Aug 2025</b></td>
-<td>
-
-**AI & Full Stack Developer · Freelance** — *Remote*
-Built SmartLearnX, an AI-powered LMS, with a dropout prediction model (Logistic Regression, **91.4% accuracy**) and academic performance forecasting (Random Forest, **R² = 0.89**) deployed as a FastAPI microservice alongside a React/Node.js frontend. Integrated NLP features (BERT for quiz generation, spaCy chatbot) serving 24/7 student support with sub-2-second response times under load.
-
-</td>
-</tr>
-<tr>
-<td><b>May – Jul 2025</b></td>
-<td>
-
-**Full Stack Developer Intern · OBG Outsourcing Pvt. Ltd.** — *Jaipur*
-Led FinSageAI360, a multi-tenant financial intelligence SaaS — cut monthly close reporting time by **45%** and reduced manual operational effort by **30%** through AI-driven anomaly detection and real-time KPI dashboards. Designed a JWT-authenticated REST API (Node.js/Express/MongoDB) with granular RBAC for multi-tenant data isolation.
-
-</td>
-</tr>
-<tr>
-<td><b>Jun – Aug 2024</b></td>
-<td>
-
-**Software Developer Intern · Om Logistics Ltd.** — *Delhi*
-Optimized enterprise document search by implementing LangChain + FAISS vector embeddings — reduced query latency by **70%** across 10,000+ documents and improved retrieval accuracy by **40%**. Built RESTful APIs (Node.js) to automate logistics workflows, eliminating 20% of manual data-entry tasks.
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -128,195 +89,325 @@ Optimized enterprise document search by implementing LangChain + FAISS vector em
 <td width="50%" valign="top">
 
 ### 🏆 [MiningNiti](https://github.com/Iammilansoni/MiningNiti)
-**SIH 2023 National Winner** — recognized by Coal India Limited & CMPDI
+**AI document intelligence & compliance for mining**
+`SIH 2023 National Winner` · `Solo rebuild, Jun 2025 →`
 
-AI document intelligence platform for the Ministry of Coal. 6 specialized AI agents across 4 providers (Groq, Cerebras, Mistral, Gemini) running concurrently via asyncio. Production RAG with hybrid search (pgvector + BM25) + cross-encoder reranking, at **$0/month** infrastructure cost.
+5 specialized agents across 4 providers — 4 run on upload (classifier first, then three
+concurrently), a 5th audits compliance on demand. **No agent framework:** orchestration is
+hand-written on `asyncio.gather()` with per-agent error isolation and quota-aware failover.
+Hybrid retrieval (pgvector HNSW **+ Postgres full-text**, fused with Reciprocal Rank
+Fusion) then cross-encoder reranked — **gated in CI at Hit Rate@5 1.000**, at $0/month.
 
-`Next.js 16` `React 19` `FastAPI` `pgvector` `Supabase` `Upstash Redis` `Clerk` `Docker`
+`FastAPI` `Next.js 16` `React 19` `pgvector` `Supabase` `Upstash` `Clerk` `Docker`
 
-[🔗 GitHub](https://github.com/Iammilansoni/MiningNiti) · [🌐 Live Demo](https://miningniti.vercel.app/)
+[🔗 Code](https://github.com/Iammilansoni/MiningNiti) · [🌐 Live](https://miningniti.vercel.app/) · [📖 Spotlight](#-miningniti--the-flagship)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [NLPForge](https://github.com/Iammilansoni/NLPFT-2)
-Enterprise AI NLP platform
+### 📄 [HATF Early Warning](https://github.com/Iammilansoni/hatf-lms-early-warning-poc)
+**A Scopus-indexed paper, shipped as a product**
+`PiCET-2026 · IET Proceedings`
 
-Two-stage retrieval pipeline: Ollama embeddings → Redis HNSW KNN search → FlashRank cross-encoder reranking. 8 LLM providers, 15+ embedding models. **40% accuracy improvement**, **60% QA effort reduction**.
+Early dropout prediction from week 2 of an 8-week course. A 59,951-parameter model —
+causal CNN → LSTM → masked temporal attention → MC-dropout — where causality is
+*structural*, not conventional. It explains every score, quantifies its own uncertainty
+(**28.4%** escalated to a human), and audits its own fairness. Eleven baselines were
+trained and the table is published **even though the proposed model loses**.
 
-`Next.js 16` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL 15` `Redis Stack` `FlashRank` `Ollama`
+`PyTorch` `FastAPI` `Next.js 15` `scikit-learn` `Docker` `Render`
 
-[🔗 GitHub](https://github.com/Iammilansoni/NLPFT-2)
+[🔗 Code](https://github.com/Iammilansoni/hatf-lms-early-warning-poc) · [🌐 Live](https://hatf-lms-early-warning-poc.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 FinSageAI360
-AI financial intelligence platform
+### ⚡ [NLPForge](https://github.com/Iammilansoni/NLPFT-2)
+**NL → executable API test cases**
+`Built at nTheta Works`
 
-Multi-tenant SaaS for accounting feed ingestion, normalization, and AI-generated cashflow/risk/anomaly insights. Built at OBG Outsourcing. **+45% faster** reporting, **+30%** operational efficiency.
+Two-stage retrieval: Ollama embeddings → Redis Stack HNSW KNN → FlashRank cross-encoder
+reranking, with LLM slot extraction across **8 providers** and 15+ embedding models.
+**+40%** template-matching accuracy, **−60%** manual QA effort.
 
-`Next.js` `Node.js` `MongoDB` `Prisma` `JWT` `AI Analytics`
+`FastAPI` `Next.js 16` `SQLAlchemy 2.0` `PostgreSQL` `Redis Stack` `FlashRank`
+
+[🔗 Code](https://github.com/Iammilansoni/NLPFT-2)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 SmartLearnX
-AI-powered Learning Management System
+**AI-powered Learning Management System**
+`Freelance`
 
-Adaptive learning platform with dropout prediction (**91.4% accuracy**), performance forecasting (**R² = 0.89**), and 24/7 NLP chatbot support. Built as a freelance project.
+Adaptive LMS with dropout prediction (Logistic Regression, **91.4%** accuracy) and
+performance forecasting (Random Forest, **R² = 0.89**) served from a FastAPI microservice,
+plus BERT quiz generation and a spaCy chatbot answering under 2s at load.
 
-`React` `TypeScript` `Node.js` `FastAPI` `MongoDB` `Redis` `Docker` `ML`
+`React` `TypeScript` `Node.js` `FastAPI` `MongoDB` `Redis` `Docker`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🔧 OmniRoute — Technical Breakdown
+## 🏆 MiningNiti — the flagship
+
+> **Two builds, four years apart.** The Smart India Hackathon 2023 entry — a *team*
+> prototype against the Ministry of Coal problem statement — won the National Finale and
+> was recognized by Coal India Limited & CMPDI. **This repository is not that codebase.**
+> It is an independent, ground-up rebuild started June 2025 and developed solo since, with
+> none of the 2023 code carried over: a production system rather than a hackathon demo.
+
+<table>
+<tr><td>
+
+**The 2023 prototype** → single-pass LangChain RAG chatbot over FAISS, running locally.
+
+**Today** → 5 agents across 3 LLM providers with quota-aware failover, hybrid retrieval
+with cross-encoder reranking, a blocking retrieval-quality CI gate, Clerk JWT auth with
+SSRF and prompt-injection guards, and 36 REST endpoints live on free-tier infrastructure.
+
+</td></tr>
+</table>
+
+```
+Document Upload
+      │
+      ▼
+  Classifier ─────── Groq · runs FIRST, its category feeds the rest
+ (gpt-oss-120b)
+      │
+ ┌────┴──────┬──────────────┐   asyncio.gather()
+ ▼           ▼              ▼
+Safety     Entity       Summarizer     ← skipped when the category
+Analyzer  Extractor                       doesn't warrant it
+(Mistral) (Cerebras)   (Cerebras)
+ └────┬──────┴──────────────┘
+      ▼
+ Chunks + Embeddings → pgvector (HNSW)
+
+ Compliance Auditor (Groq) runs separately, ON DEMAND
+ → per-clause Pass / Fail / Not Addressed matrix
+```
+
+**Retrieval pipeline** — query → 23 injection-guard patterns + 1,500-char cap → Gemini
+`gemini-embedding-001` (768-dim) → pgvector cosine (HNSW) fused with Postgres full-text
+`ts_rank_cd` via Reciprocal Rank Fusion (k=60) → over-fetch 20 → `ms-marco-MiniLM-L-6-v2`
+cross-encoder rerank to top 5 → streamed over SSE with inline `[Document, Page X]`
+citations.
+
+> The lexical arm is PostgreSQL full-text search, **not true BM25** — real BM25 needs an
+> extension like `pg_search`. Everyone writes "hybrid BM25 + vector"; I'd rather be precise
+> than round up.
+
+**Retrieval quality — a blocking CI gate**, scored on 12 labelled queries over a 130-chunk
+mining corpus. If it drops below the floor, the build fails:
+
+| Metric | Floor | Current |
+|:--|:--:|:--:|
+| Hit Rate@5 | 0.90 | **1.000** |
+| MRR | 0.75 | **1.000** |
+| Recall@5 | 0.85 | **0.958** |
+| nDCG@5 | 0.75 | **0.968** |
+
+<sub>**242 tests** run green as blocking gates on every push (215 unit + 27 integration);
+274 collected once the eval suites are counted · 27.1K lines across two apps ·
+$0/month infrastructure.</sub>
+
+---
+
+## 💼 Experience
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" valign="top"><b>Jul 2026 –<br/>Present</b></td>
+<td width="78%" valign="top">
 
-### Frontend Engineering (React / Next.js)
-Shipped an accessible **"Configured Only"** filter for the provider-rankings dashboard — maps live `/api/providers` connection state to a filterable data grid with a "Status" column, `role="switch"` with `aria-checked` for screen reader accessibility, `useEffect` cleanup for memory-leak prevention, and a full Vitest suite. **168 additions across 4 files, 9/9 tests passing (PR #6245, v3.8.45).**
-
-</td>
-<td width="50%" valign="top">
-
-### API & Provider Integrations (Claude 5 Sonnet)
-Integrated **Claude 5 Sonnet** into the `claude_web` provider registry with a registry regression test, shipping a verified signed commit within hours of the model's release. **PR #6209, v3.8.45.**
+**Open Source Contributor · [OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — *Remote*
+Universal AI gateway — **53k★**, 230+ LLM providers, 21,000+ tests. **6 PRs merged** across
+backend schema design, provider integrations, routing logic and frontend.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><b>Oct – Dec<br/>2025</b></td>
+<td valign="top">
 
-### Architecture & CI/CD Pipelines
-Audited 9 core docs and ~20 localized READMEs across 42 locales, removing untranslated Portuguese/Chinese prose and correcting stale architecture facts (routing strategies **13→17**, service modules **36→134**). Passed `docs-sync-strict` CI gate — **zero regressions (PR #6105, v3.8.44).**
+**Full Stack Developer Intern · nTheta Works Pvt. Ltd.** — *Remote*
+Engineered a two-stage semantic retrieval pipeline (Ollama embeddings → Redis HNSW →
+FlashRank reranking) for NLPForge, an enterprise LLM API-testing platform — **+40%**
+template-matching accuracy, **−60%** manual QA effort. Shipped async FastAPI microservices
+and Next.js/TypeScript dashboards, containerized with Docker Compose and CI/CD on Linux.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top"><b>Jul – Aug<br/>2025</b></td>
+<td valign="top">
 
-### Core Backend Logic & Schema Design
-Diagnosed an HTTP 400 regression for strict LLM providers (Xiaomi MiMo) caused by system-message ordering in the memory-injection pipeline. Proposed a **declarative Zod schema** with a `systemMessageMustBeFirst` flag — adopted by the maintainer into the broader shipped fix. **25/25 Vitest + 30/30 Node test-runner coverage (PR #6225).**
+**AI & Full Stack Developer · Freelance** — *Remote*
+Built SmartLearnX, an AI-powered LMS with dropout prediction (Logistic Regression,
+**91.4%**) and performance forecasting (Random Forest, **R² = 0.89**) deployed as a FastAPI
+microservice behind a React/Node.js frontend. Added BERT quiz generation and a spaCy
+chatbot serving sub-2-second responses under load.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>May – Jul<br/>2025</b></td>
+<td valign="top">
+
+**Full Stack Developer Intern · OBG Outsourcing Pvt. Ltd.** — *Jaipur*
+Led FinSageAI360, a multi-tenant financial-intelligence SaaS — cut monthly close reporting
+time by **45%** and manual operational effort by **30%** via AI anomaly detection and
+real-time KPI dashboards. Designed a JWT-authenticated REST API (Node.js/Express/MongoDB)
+with granular RBAC for multi-tenant data isolation.
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Jun – Aug<br/>2024</b></td>
+<td valign="top">
+
+**Software Developer Intern · Om Logistics Ltd.** — *Delhi*
+Optimized enterprise document search with LangChain + FAISS embeddings — **−70%** query
+latency across 10,000+ documents and **+40%** retrieval accuracy. Built Node.js REST APIs
+automating logistics workflows, eliminating 20% of manual data entry.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 🔧 Open Source — OmniRoute
+
+<sub>A 53k★ universal AI gateway: one OpenAI-compatible endpoint over 230+ providers, MCP server, A2A protocol, 21,000+ tests.</sub>
+
+| PR | What it took | Impact |
+|:--|:--|:--|
+| [**#9397**](https://github.com/diegosouzapw/OmniRoute/pull/9397) | Enforce `gemini-web` reasoning and tool constraints — provider capabilities modelled declaratively rather than patched at the call site | Fixes malformed requests to a strict provider |
+| [**#9353**](https://github.com/diegosouzapw/OmniRoute/pull/9353) | Correct reset-window strategy prioritization in the router | Routing picks the right provider under quota pressure |
+| [**#6366**](https://github.com/diegosouzapw/OmniRoute/pull/6366) | Dynamic import for MITM + fixed Turbopack over-bundling warnings | Smaller bundle, clean build output |
+| [**#6245**](https://github.com/diegosouzapw/OmniRoute/pull/6245) | Accessible **"Configured Only"** filter for provider rankings — live `/api/providers` state → filterable grid, `role="switch"` + `aria-checked`, `useEffect` cleanup | 168 additions / 4 files, 9/9 tests, shipped v3.8.45 |
+| [**#6209**](https://github.com/diegosouzapw/OmniRoute/pull/6209) | **Claude 5 Sonnet** into the `claude_web` provider registry with a regression test | Signed commit merged within hours of the model's release |
+| [**#6105**](https://github.com/diegosouzapw/OmniRoute/pull/6105) | Audited 9 core docs + 20+ localized READMEs across **42 locales**; corrected stale architecture facts (routing strategies 13→17, service modules 36→134) | Passed `docs-sync-strict`, zero regressions, v3.8.44 |
+
+**The one I'm proudest of** — [#6225](https://github.com/diegosouzapw/OmniRoute/pull/6225): diagnosed an HTTP 400
+regression hitting strict LLM providers (Xiaomi MiMo), caused by system-message ordering in
+the memory-injection pipeline. Rather than special-casing the provider, I proposed a
+**declarative Zod schema flag** — `systemMessageMustBeFirst` — which the maintainer adopted
+into the broader shipped fix. 25/25 Vitest + 30/30 Node test-runner coverage.
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp" height="42" />
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hybrid_Search-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross--Encoder_Reranking-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Orchestration-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Retrieval_Eval_MRR_nDCG-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FlashRank-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+**LLM Providers**<br/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cerebras-6C2EB9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square"/>
 
-**AI / LLM**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/RAG_Pipelines-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Hybrid_Search-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Cross--Encoder_Reranking-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/FlashRank-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-blueviolet?style=flat-square"/>
+**Backend & Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,tailwind" height="42" />
 
-**LLM Providers**
-<br/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/Cerebras-6C2EB9?style=flat-square"/> <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square"/> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square"/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-
-**Cloud / DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,linux,git" />
-
-</div>
-
-<br/>
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering**
-Global Institute of Technology, Jaipur | Oct 2022 – May 2026 | CGPA: **8.10/10**
-
-**Certifications:**
-- 🏆 Smart India Hackathon 2023 Winner — Government of India
-- 📜 NASSCOM Certified Full Stack Developer — 2024
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/iammilansoni">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Milan's GitHub Stats"/>
-</a>
-<a href="https://github.com/iammilansoni">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+**Data & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prisma,supabase,docker,githubactions,vercel,linux,git" height="42" />
 
 </div>
 
+---
+
+## 📊 GitHub
+
 <div align="center">
 
-<a href="https://github.com/iammilansoni">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammilansoni&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=6C63FF&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&hide_border=true&langs_count=8&title_color=6C63FF" alt="Top languages" />
+</picture>
 
-<a href="https://github.com/iammilansoni">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammilansoni&theme=radical&no-frame=true&margin-w=4&row=1&column=7" alt="Trophy"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=iammilansoni&hide_border=true&theme=tokyonight&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img src="https://streak-stats.demolab.com/?user=iammilansoni&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&hide_border=true&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&hide_border=true&theme=minimal&color=6C63FF&line=6C63FF" alt="Contribution activity" width="100%" />
+</picture>
 
 </div>
 
+---
+
+## ✍️ Writing
+
+Long-form engineering write-ups on what actually broke and why:
+
+- 📝 [**How I Built a Production-Grade Multi-Agent AI System That Won a National Hackathon**](https://milansoni.vercel.app/blog/building-multi-agent-ai) — the 5-agent architecture, and what real-world GenAI cost me to learn
+- 📝 [**Stop Overpaying for Vector DBs: A Production Hybrid RAG Pipeline for $0/Month**](https://milansoni.vercel.app/blog/hybrid-rag-pipeline-zero-cost) — pgvector + Postgres full-text + RRF, and where the free tiers actually bite
+- 📝 [**The State Machine Paradigm: Why I Ditched Linear LLM Chains for LangGraph**](https://milansoni.vercel.app/blog/langgraph-multi-agent-state-machine) — per-agent error isolation, conditional branching, fallback routed by token budget
+- 📝 [**RSC + Streaming LLMs: A Zero-Latency AI Dashboard with Next.js Server Actions**](https://milansoni.vercel.app/blog/rsc-streaming-llms-nextjs)
+
+More on [my blog](https://milansoni.vercel.app/blog) and [Medium](https://medium.com/@milansoni96946).
+
+---
+
+## 🎓 Education & Credentials
+
+**B.Tech, Computer Science & Engineering** — Global Institute of Technology, Jaipur
+*Oct 2022 – Apr 2026 · CGPA **8.10/10***
+
+- 🏆 **Smart India Hackathon 2023 — National Winner** · Ministry of Coal, top 1% of 44,000+ teams
+- 📄 **Scopus-Indexed Publication** — PiCET-2026 (IET Conference Proceedings): hybrid attention-based temporal modeling
+- 📜 **NASSCOM Certified** Full Stack Developer (2024)
+- 🎪 **CodeFiesta Organizer** — sponsorship lead across editions 3.0 and 4.0
+
+---
+
 <div align="center">
 
-<a href="https://github.com/iammilansoni">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&theme=react-dark&hide_border=true" alt="Milan's github activity graph" width="100%"/>
-</a>
+### 🤝 Let's build something measurable
 
-</div>
-
-<br/>
-
-## ✍️ Blog
-
-- 📝 [Building Multi-Agent AI Systems with LangGraph](https://medium.com/@milansoni96946)
-- 📝 [Hybrid RAG Pipeline at Zero Cost](https://medium.com/@milansoni96946)
-- 📝 [RSC Streaming LLMs in Next.js](https://medium.com/@milansoni96946)
-
-More on [Medium](https://medium.com/@milansoni96946) and [my portfolio blog](https://milansoni.vercel.app/blog).
-
-<br/>
-
-<div align="center">
-
-### 🤝 Let's Connect
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-milansoni.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://milansoni.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonimilan)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Iammilansoni)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@milansoni96946)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milansoni96946@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://milansoni.vercel.app)
 
 **💡 Open for full-time roles, freelance projects, and AI consulting.**
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=110&section=footer" width="100%"/>
 
 </div>
