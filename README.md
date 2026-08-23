@@ -349,26 +349,20 @@ into the broader shipped fix. 25/25 Vitest + 30/30 Node test-runner coverage.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iammilansoni&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=6C63FF&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilansoni&layout=compact&hide_border=true&langs_count=8&title_color=6C63FF" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=iammilansoni&hide_border=true&theme=tokyonight&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-  <img src="https://streak-stats.demolab.com/?user=iammilansoni&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub streak" />
-</picture>
+<img src="assets/stats.svg" alt="Language mix across 57 public repositories: TypeScript 71.0%, Python 16.7%, JavaScript 8.0%, Shell 1.8%, CSS 1.5%. 448 commits in the past year, 18 pull requests merged, 57 public repositories." width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&hide_border=true&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&hide_border=true&theme=minimal&color=6C63FF&line=6C63FF" alt="Contribution activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammilansoni&hide_border=true&theme=minimal&color=6C63FF&line=6C63FF" alt="Contribution activity over the last 31 days" width="100%" />
 </picture>
 
 </div>
+
+<sub>The card above is generated from the GitHub API by
+<a href="scripts/gen_stats.py"><code>scripts/gen_stats.py</code></a> and refreshed weekly — a
+committed file rather than a live third-party widget, because the public
+<code>github-readme-stats</code> instance is currently paused (HTTP 503) and its cards were
+rendering as broken images here.</sub>
 
 ---
 
