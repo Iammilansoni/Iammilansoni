@@ -16,27 +16,27 @@
 <text class="l" x="34" y="63">across 34 public repositories, weighted by bytes</text>
 <clipPath id="r"><rect x="34" y="92" width="792" height="15" rx="7.5"/></clipPath>
 <g clip-path="url(#r)">
-<rect x="34.00" y="92" width="476.88" height="15" fill="#3178c6"/>
-<rect x="510.88" y="92" width="182.55" height="15" fill="#3572A5"/>
-<rect x="693.43" y="92" width="82.18" height="15" fill="#f1e05a"/>
-<rect x="775.60" y="92" width="22.80" height="15" fill="#89e051"/>
-<rect x="798.41" y="92" width="14.49" height="15" fill="#663399"/>
-<rect x="812.89" y="92" width="13.11" height="15" fill="#8b949e"/>
+<rect x="34.00" y="92" width="477.46" height="15" fill="#3178c6"/>
+<rect x="511.46" y="92" width="182.00" height="15" fill="#3572A5"/>
+<rect x="693.46" y="92" width="81.93" height="15" fill="#f1e05a"/>
+<rect x="775.39" y="92" width="22.74" height="15" fill="#89e051"/>
+<rect x="798.12" y="92" width="14.81" height="15" fill="#663399"/>
+<rect x="812.93" y="92" width="13.07" height="15" fill="#8b949e"/>
 </g>
 <circle cx="39.0" cy="132" r="5" fill="#3178c6"/>
-<text class="t" x="50.0" y="136">TypeScript <tspan class="l">60.2%</tspan></text>
+<text class="t" x="50.0" y="136">TypeScript <tspan class="l">60.3%</tspan></text>
 <circle cx="178.0" cy="132" r="5" fill="#3572A5"/>
 <text class="t" x="189.0" y="136">Python <tspan class="l">23.0%</tspan></text>
 <circle cx="288.6" cy="132" r="5" fill="#f1e05a"/>
-<text class="t" x="299.6" y="136">JavaScript <tspan class="l">10.4%</tspan></text>
+<text class="t" x="299.6" y="136">JavaScript <tspan class="l">10.3%</tspan></text>
 <circle cx="427.6" cy="132" r="5" fill="#89e051"/>
 <text class="t" x="438.6" y="136">Shell <tspan class="l">2.9%</tspan></text>
 <circle cx="531.1" cy="132" r="5" fill="#663399"/>
-<text class="t" x="542.1" y="136">CSS <tspan class="l">1.8%</tspan></text>
+<text class="t" x="542.1" y="136">CSS <tspan class="l">1.9%</tspan></text>
 <line class="rule" x1="34" y1="176" x2="826" y2="176" stroke-width="1"/>
-<text class="n" x="34" y="208">448</text>
+<text class="n" x="34" y="208">555</text>
 <text class="l" x="94" y="208">commits, past year</text>
-<text class="n" x="298" y="208">18</text>
+<text class="n" x="298" y="208">19</text>
 <text class="l" x="342" y="208">pull requests merged</text>
 <text class="n" x="562" y="208">34</text>
 <text class="l" x="606" y="208">public repositories</text>
