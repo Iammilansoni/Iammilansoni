@@ -13,31 +13,31 @@
 </style>
 <rect class="bg" x="0.5" y="0.5" width="859" height="231" rx="10" stroke-width="1"/>
 <text class="h" x="34" y="40">Language mix</text>
-<text class="l" x="34" y="63">across 34 public repositories, weighted by bytes</text>
+<text class="l" x="34" y="63">across 30 public repositories, weighted by bytes</text>
 <clipPath id="r"><rect x="34" y="92" width="792" height="15" rx="7.5"/></clipPath>
 <g clip-path="url(#r)">
-<rect x="34.00" y="92" width="477.52" height="15" fill="#3178c6"/>
-<rect x="511.52" y="92" width="181.96" height="15" fill="#3572A5"/>
-<rect x="693.48" y="92" width="81.91" height="15" fill="#f1e05a"/>
-<rect x="775.40" y="92" width="22.73" height="15" fill="#89e051"/>
-<rect x="798.13" y="92" width="14.81" height="15" fill="#663399"/>
-<rect x="812.94" y="92" width="13.06" height="15" fill="#8b949e"/>
+<rect x="34.00" y="92" width="470.07" height="15" fill="#3178c6"/>
+<rect x="504.07" y="92" width="196.07" height="15" fill="#3572A5"/>
+<rect x="700.14" y="92" width="79.94" height="15" fill="#f1e05a"/>
+<rect x="780.08" y="92" width="22.58" height="15" fill="#89e051"/>
+<rect x="802.66" y="92" width="12.97" height="15" fill="#663399"/>
+<rect x="815.63" y="92" width="10.37" height="15" fill="#8b949e"/>
 </g>
 <circle cx="39.0" cy="132" r="5" fill="#3178c6"/>
-<text class="t" x="50.0" y="136">TypeScript <tspan class="l">60.3%</tspan></text>
+<text class="t" x="50.0" y="136">TypeScript <tspan class="l">59.4%</tspan></text>
 <circle cx="178.0" cy="132" r="5" fill="#3572A5"/>
-<text class="t" x="189.0" y="136">Python <tspan class="l">23.0%</tspan></text>
+<text class="t" x="189.0" y="136">Python <tspan class="l">24.8%</tspan></text>
 <circle cx="288.6" cy="132" r="5" fill="#f1e05a"/>
-<text class="t" x="299.6" y="136">JavaScript <tspan class="l">10.3%</tspan></text>
+<text class="t" x="299.6" y="136">JavaScript <tspan class="l">10.1%</tspan></text>
 <circle cx="427.6" cy="132" r="5" fill="#89e051"/>
 <text class="t" x="438.6" y="136">Shell <tspan class="l">2.9%</tspan></text>
 <circle cx="531.1" cy="132" r="5" fill="#663399"/>
-<text class="t" x="542.1" y="136">CSS <tspan class="l">1.9%</tspan></text>
+<text class="t" x="542.1" y="136">CSS <tspan class="l">1.6%</tspan></text>
 <line class="rule" x1="34" y1="176" x2="826" y2="176" stroke-width="1"/>
-<text class="n" x="34" y="208">545</text>
+<text class="n" x="34" y="208">661</text>
 <text class="l" x="94" y="208">commits, past year</text>
-<text class="n" x="298" y="208">19</text>
+<text class="n" x="298" y="208">28</text>
 <text class="l" x="342" y="208">pull requests merged</text>
-<text class="n" x="562" y="208">34</text>
+<text class="n" x="562" y="208">30</text>
 <text class="l" x="606" y="208">public repositories</text>
 </svg>
